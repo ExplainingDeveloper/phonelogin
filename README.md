@@ -1,5 +1,5 @@
 # phonelogin
-phonelogin
+<a href="https://buymeacoffee.com/codewithsora" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>
 
 안녕하세요. Google 서비스 파일을 삭제해서, 아마 바로 실행하시면 에러가 날 것 같습니다. 동영상을 확인하시고 Google JSON 파일을 추가한 뒤, 확인 부탁드립니다.
 
